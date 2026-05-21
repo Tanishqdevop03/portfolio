@@ -12,9 +12,9 @@ const Projects = () => {
       description: "A full-stack MERN platform used by 200+ students to track and visualize campus placement.",
       points: [
         "Built an admin dashboard that automates scraping and categorization of 100+ job listings across companies and domains.",
-        "Implemented placement analytics dashboards using Chart.js, improving data visibility and analysis efficiency by 40%.",
+        "Implemented placement statistics and visualization features using Chart.js for better data representation and insights.",
         "Integrated OpenAI API chatbot capable of answering 50+ placement-related queries for students.",
-        "Deployed the application using Vercel and Render with a custom domain, achieving 99% uptime."
+        "Deployed the application on Vercel and Render with custom domain integration."
       ],
       githubLink: "https://github.com/aditya99933/Placement-records",
       liveLink: "https://www.adgipshub.online/"
